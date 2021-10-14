@@ -3,6 +3,10 @@ Hi!I'm florian, a student whose domain is web development, especially front-end.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/florian-campion-a52084123/)
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END --> 
+
 <!-- Pinned Repositories -- >
 
 <a href="https://github.com/florian-campion/projet-c">
