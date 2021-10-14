@@ -12,7 +12,7 @@ Hi!I'm florian, a student whose domain is web development, especially front-end.
 <a href="https://github.com/florian-campion/projet-c">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=florian-campion&repo=projet-c&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=florian-campion=projet-c)](https://github.com/florian-campion/projet-c)
 <br>
 
 <a href="https://github.com/braydoncoyer/ng-limeade">
